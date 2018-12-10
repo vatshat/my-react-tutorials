@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+   <head>
+      <meta charset = "UTF-8">
+      <title>React App</title>
+   </head>
+
+   <body>
+        <div id = "app"></div>
+
+        <button id="test 3" onclick="testJS()">hi</button>
+
+        <script type="text/javascript">
+
+            function getJS() {                 
+                return 'test 0';
+            }
+
+            function callToJavaFX()  { 
+                myJavaMember.showTime(); 
+            }
+
+            function testJS(){
+                document.getElementById("test 3").innerHTML = window.ourComponent.testReactJS("Working");
+            }
+
+        </script>
+        <script src = "main.min.js"></script>
+
+        <h2>This is Html content</h2>
+        <button onclick='callToJavaFX();'>Call To JavaFX</button>
+        
+   </body>
+
+</html>
