@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should add todo 1`] = `
+Array [
+  Object {
+    "todo": "Feed dog",
+    "type": "ADD_TODO",
+  },
+]
+`;

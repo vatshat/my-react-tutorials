@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1544639602996" clover="3.2.0">
+  <project timestamp="1544639602998" name="All files">
+    <metrics statements="20" coveredstatements="18" conditionals="2" coveredconditionals="0" methods="8" coveredmethods="7" elements="30" coveredelements="25" complexity="0" loc="20" ncloc="20" packages="1" files="3" classes="3">
+      <file name="asynchronous.js" path="C:\Users\vatshat\VS-workspace\my-react-tutorials\mock-store\src\asynchronous.js">
+        <metrics statements="15" coveredstatements="13" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="5"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="33" count="0" type="stmt"/>
+      </file>
+      <file name="sum.js" path="C:\Users\vatshat\VS-workspace\my-react-tutorials\mock-store\src\sum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="synchronous.js" path="C:\Users\vatshat\VS-workspace\my-react-tutorials\mock-store\src\synchronous.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
